@@ -1,0 +1,39 @@
+@charset "utf-8";
+.body{
+	background-color: wheat;
+	padding: 5%;
+}
+.header{
+	background-color: darkolivegreen;
+	width: 100%;
+	height: 70px;
+}
+.side{
+	background-color: darkolivegreen;
+	width: 20%;
+	height: 550px;
+	margin-top: 2%;
+	float: left;
+}
+.headertwo{
+	background-color: darkolivegreen;
+	width: 77%;
+	height: 150px;
+	margin-top: 2%;
+	float: right;
+}
+.box{
+	background-color: darkolivegreen;
+	width: 77%;
+	height: 375px;
+	
+	margin-top: 2%;
+	float: right;
+}
+.footer{
+	background-color: darkolivegreen;
+	width: 100%;
+	height: 75px;
+	margin-top: 2%;
+	float: left;
+}
